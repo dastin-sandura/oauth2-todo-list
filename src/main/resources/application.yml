@@ -1,0 +1,8 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: 'insert data from https://github.com/settings/developers here'
+            client-secret: 'insert data from https://github.com/settings/developers here'
